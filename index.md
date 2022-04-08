@@ -9,3 +9,9 @@ About me:
 - 👀 I’m interested in NLP and data analysis.
 - 🌱 I’m currently learning Python at university, where I am studying computational linguistics.
 - 💞️ I’m currently not looking to collaborate on something, since I first want to be a more experienced programmer, and dont want to "pull anyone down".
+
+Since I am still at uni, I'm currently working through old exams. You'll find one of those tasks under the following link:
+
+https://github.com/iamhummelila/recipe_task
+
+Of course, there will be more. 

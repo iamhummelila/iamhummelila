@@ -1,9 +1,9 @@
 theme: jekyll-theme-architect
 
-
 url: http://iamhummelila.github.io
 title: code snippets
 subtitle: studious studier hummels
 author: hummelila
+description: I present myself and some of my code. This primarily serves personal practice.
 
 future: true

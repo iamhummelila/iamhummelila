@@ -10,11 +10,12 @@ About me:
 - 🌱 I’m currently learning Python at university, where I am studying computational linguistics.
 - Funfact: a year ago, I did not like programming. Now? FUN. Takes some getting used to!
 
-Since I am still at uni, I'm currently working through old exams. _Don't wanna fail!_ You'll find one of those tasks under the following link:
+Since I am still at uni, I'm currently working through old exams. _Don't wanna fail!_ You'll find two of those tasks under the following links:
 
 [Recipe task](https://github.com/iamhummelila/recipe_task)
+[Extraction task](https://github.com/iamhummelila/extraction_task)
 
-You may also use the recipes in this repository. I take no responsibility, especially since I have not tried them either.
+You may also use the recipes in the first repository. I take no responsibility, especially since I have not tried them either.
 
 Of course, there will be more tasks!
 

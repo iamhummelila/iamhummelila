@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: \_layout/default.html
 title: "ABOUT ME"
 permalink: /about/
 ---

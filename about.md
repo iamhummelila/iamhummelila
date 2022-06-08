@@ -1,3 +1,7 @@
+layout: page
+title: "ABOUT ME"
+permalink: /about/
+
 ## About me!
 
 I am [@iamhummelila](https://github.com/iamhummelila)! I am studying computational linguistics aka NLP and comparative literature at uni.

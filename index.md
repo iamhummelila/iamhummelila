@@ -4,7 +4,7 @@ This is my first Github Page!
 
 I will try my best to upload some samples of my `code` here.
 
-[About me](/about.html):
+[About me](_layouts/about.html):
 - 👋 Hi, I’m [@iamhummelila](https://iamhummelila.github.io/iamhummelila/)
 - 👀 I’m interested in [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) and [data analysis](https://en.wikipedia.org/wiki/Data_analysis).
 - 🌱 I’m currently learning Python at university, where I am studying computational linguistics.

@@ -1,31 +1,55 @@
 <!DOCTYPE html>
-<html>
-<head>
-<title>About me (and this website)</title>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
-</head>
-<body>
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+{% seo %}
+
+    {% include head-custom.html %}
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <a href="{{ '/' | absolute_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        {% if site.github.is_project_page %}
+          <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+        {% endif %}
+        {% if site.github.is_user_page %}
+          <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
+        {% endif %}
+      </div>
+    </header>
 
       <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="about-me">
           <h1>About me</h1>
     <p>I'm <a href="https://github.com/iamhummelila">@iamhummelila</a>! Nice to meet you. I am studying computational linguistics (aka NLP) and comparative literature at uni.
-Of course, I'm not studying Python for literature (even though it would be fun to do a little project there some time!), 
-but for CL / NLP. </p>
-<br>
-<p>My interests are widespread, so I'll stick to the basics: I love (natural) languages, explaining things, holding small speeches (or monologues) on things that fascinate me,
-and, of course, learning information. My brain is like a sponge. I want to get all the info in my head. Then, my brain is like
-a sieve: I forget all of it again. </p>
-<p>So, what am I learning at the moment, besides uni-related-stuff? </p>
-<ul>
-<li> Python! (for uni, but also for personal projects)</li>
-<li> CSS and HTML (for this website! so kind of for uni and for personal projects) </li>
-<li> Languages. I speak five languages more or less fluently, and want to learn another five as soon as my brain allows it. </li>
-</ul>
-<p> I wish I could list more, but that's it for the now. Have fun! </p>
-<br>
+      Of course, I'm not studying Python for literature (even though it would be fun to do a little project there some time!), 
+      but for CL / NLP. </p>
+    <br>
+    <p>My interests are widespread, so I'll stick to the basics: I love (natural) languages, explaining things, holding small speeches (or monologues) on things that fascinate me,
+      and, of course, learning information. My brain is like a sponge. I want to get all the info in my head. Then, my brain is like
+      a sieve: I forget all of it again. </p>
+    <p>So, what am I learning at the moment, besides uni-related-stuff? </p>
+    <ul>
+     <li> Python! (for uni, but also for personal projects)</li>
+     <li> CSS and HTML (for this website! so kind of for uni and for personal projects) </li>
+     <li> Languages. I speak five languages more or less fluently, and want to learn another five as soon as my brain allows it. </li>
+     </ul>
+     <p> I wish I could list more, but that's it for the now. Have fun! </p>
+     <br>
         </section>
 
         <aside id="sidebar">

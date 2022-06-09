@@ -1,7 +1,7 @@
 ---
-layout: \_layout/default.html
+layout: /_layout/default.html
 title: "ABOUT ME"
-permalink: /about/
+permalink: /about.html
 ---
 
 ## About me!

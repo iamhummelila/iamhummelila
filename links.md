@@ -58,7 +58,7 @@ And other things you must organise:
 * A fuller list than this, I'm just blurting out whatever runs my mind.
 
 
-#### The Art of Modern Mailwriting
+### The Art of Modern Mailwriting
 
 There are only few, short tips I can give you from my experience. The first half is about content, the second will be in German.
 

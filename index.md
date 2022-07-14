@@ -22,4 +22,4 @@ Of course, there will be more tasks!
 
 I am also going to link this Markdown Cheatsheet here so both you and I can find it easily: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-On a very random sidenote: I have not yet figured out how or if people can contact each other directly through Github. So if you do know, just contact me and I hope I'll find that.
+This is not the only potentially useful link on this website, as I created a whole different list! You can find it [here](links.md).

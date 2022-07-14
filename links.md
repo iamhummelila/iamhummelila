@@ -15,8 +15,8 @@ If you do not yet know Stackoverflow, it's time to find out about it. Search for
 [Stackoverflow](www.stackoverflow.com)
 
 Other links:
-[Some random YouTube playlist I sometimes add stuff to](https://www.youtube.com/playlist?list=PLtVm1w8cV__bz2Lt8irXP4TUWRo22Y98x)
-[Some random YouTube playlist I found for sorting algorithms](https://www.youtube.com/playlist?list=PLcX11VWS1PdA4dSPip8-1JfKxFa32X53y)
+- [Some random YouTube playlist I sometimes add stuff to](https://www.youtube.com/playlist?list=PLtVm1w8cV__bz2Lt8irXP4TUWRo22Y98x)
+- [Some random YouTube playlist I found for sorting algorithms](https://www.youtube.com/playlist?list=PLcX11VWS1PdA4dSPip8-1JfKxFa32X53y)
 
 
 
@@ -24,14 +24,14 @@ Other links:
 
 So far, I have created two YouTube playlists with a relatively random assortment of videos that helped me understand the subject matters. Those are the links:
 
-[Mathematical Foundations](https://www.youtube.com/playlist?list=PLtVm1w8cV__ZH8N4d_JLG-N5X6V6nnXZ9)
-[ECL2](https://www.youtube.com/playlist?list=PLtVm1w8cV__Z_lKSoUBEhJgtn3JARL80f)
+- [Mathematical Foundations](https://www.youtube.com/playlist?list=PLtVm1w8cV__ZH8N4d_JLG-N5X6V6nnXZ9)
+- [ECL2](https://www.youtube.com/playlist?list=PLtVm1w8cV__Z_lKSoUBEhJgtn3JARL80f)
 
 Overall, the following YouTube accounts will probably help you with your further inquiries:
 
-[TrevTutor](https://www.youtube.com/c/Trevtutor)
-[Logic and Philosophy](https://www.youtube.com/c/LogicPhilosophy)
-[Socratica](https://www.youtube.com/c/Socratica)
+- [TrevTutor](https://www.youtube.com/c/Trevtutor)
+- [Logic and Philosophy](https://www.youtube.com/c/LogicPhilosophy)
+- [Socratica](https://www.youtube.com/c/Socratica)
 
 
 'Wait, what does Logic and Philosophy have to do with NLP/CL?', is what you might be asking. Simple: We, as NLP-interested people, also need to learn how to deal with predicate and propositional logic, truth tables, and be able to write an ethics part in our research (it's not that used yet, but I am strongly pro-ethical-statement).
@@ -74,21 +74,21 @@ There are only few, short tips I can give you from my experience. The first half
 Dieser Abschnitt wird, aus ersichtlichen Gründen, auf Deutsch sein. Begrüssungsformeln und Abschiedsformalismen werden häufig falsch verwendet.
 
 ##### Begrüssungen
-Liebe/r Name - engste mögliche Variante. Verwende diese Anrede nur mit deinen engeren Bekannten (Freund:innen) oder Personen, die dich ebenfalls so anschreiben.
-Liebe/r Herr/Frau Name - nicht so nahe, da immer noch gesiezt wird. Diese Form ist mit engeren Bekannten zu verwenden, oder Personen, die dich ebenfalls so anschreiben.
-Guten Tag Herr/Frau Name - genügend distant, um nicht unhöflich zu wirken, und nicht zu formell. Meiner Meinung nach die Standardoption, wenn nichts anderes sinnvoll ist.
-Guten Abend Herr/Frau Name - selbes wie oben. Bitte berücksichtige die Uhrzeit und schicke keine Mails um 23:45 (oder: ab ca. 22 Uhr), es sei denn, die Abgabe ist um Mitternacht.
+- Liebe/r Name - engste mögliche Variante. Verwende diese Anrede nur mit deinen engeren Bekannten (Freund:innen) oder - Personen, die dich ebenfalls so anschreiben.
+- Liebe/r Herr/Frau Name - nicht so nahe, da immer noch gesiezt wird. Diese Form ist mit engeren Bekannten zu verwenden, oder Personen, die dich ebenfalls so anschreiben.
+- Guten Tag Herr/Frau Name - genügend distant, um nicht unhöflich zu wirken, und nicht zu formell. Meiner Meinung nach die Standardoption, wenn nichts anderes sinnvoll ist.
+- Guten Abend Herr/Frau Name - selbes wie oben. Bitte berücksichtige die Uhrzeit und schicke keine Mails um 23:45 (oder: ab ca. 22 Uhr), es sei denn, die Abgabe ist um Mitternacht.
 Sehr geehrte/r Damen und Herren/Herr/Dame - sehr formell. Verwende dies in formellen Schreiben.
 
 
 ##### Verabschiedungen
-Liebe Grüsse - Sehr enge Variante, mal abgesehen von "Mit Küsschen" oder "Herzlich umarmt dich", welche hoffentlich auch von dir als sehr eng angesehen werden. Verwende dies nur bei engen Bekannten (z.B. Freund:innen) oder Personen, die dich mit diesen Grüssen anschreiben.
-Herzliche Grüsse - engere Variante, erneut eher für engere Bekannte oder Personen, die es ebenfalls nutzen. Dies verwendest du unabhängig davon, ob du per Du oder per Sie mit jemandem bist.
-Sonnige Grüsse - freundliche, nicht formelle Verabschiedungsformel. Gute Option für alles, sofern es sonnig ist, unabhängig ob du mit der Person per Du oder Sie bist. Nicht genügend höflich für formelle Schreiben!
-Freundliche Grüsse - Perfekte Standardverabschiebung. Formell oder in weniger formellen Situationen - freundliche Grüsse sind immer gut.
-Mit freundlichen Grüssen - veraltet. Deine Grosseltern haben dies vermutlich auch so gelernt, heute verwenden es aber primär noch Boomer und Millennials, die das Update irgendwie verpasst haben, oder bei tendenziell altmodischen Boomern in die Schule gegangen sind.
-Mit xxx Grüssen - veraltet.
-Hochachtungsvoll - sehr veraltet. Verwenden primär Boomer oder ältere Personen. Formeller geht's fast nicht.
+- Liebe Grüsse - Sehr enge Variante, mal abgesehen von "Mit Küsschen" oder "Herzlich umarmt dich", welche hoffentlich auch von dir als sehr eng angesehen werden. Verwende dies nur bei engen Bekannten (z.B. Freund:innen) oder Personen, die dich mit diesen Grüssen anschreiben.
+- Herzliche Grüsse - engere Variante, erneut eher für engere Bekannte oder Personen, die es ebenfalls nutzen. Dies verwendest du unabhängig davon, ob du per Du oder per Sie mit jemandem bist.
+- Sonnige Grüsse - freundliche, nicht formelle Verabschiedungsformel. Gute Option für alles, sofern es sonnig ist, unabhängig ob du mit der Person per Du oder Sie bist. Nicht genügend höflich für formelle Schreiben!
+- Freundliche Grüsse - Perfekte Standardverabschiebung. Formell oder in weniger formellen Situationen - freundliche Grüsse sind immer gut.
+- Mit freundlichen Grüssen - veraltet. Deine Grosseltern haben dies vermutlich auch so gelernt, heute verwenden es aber primär noch Boomer und Millennials, die das Update irgendwie verpasst haben, oder bei tendenziell altmodischen Boomern in die Schule gegangen sind.
+- Mit xxx Grüssen - veraltet.
+- Hochachtungsvoll - sehr veraltet. Verwenden primär Boomer oder ältere Personen. Formeller geht's fast nicht.
 
 Das höflichste, was in der Modernen Mailschreibung verwendet wird, ist 'Freundliche Grüsse'. Die Grüsse danach kannst du in dein Passivvokabular verschieben.
 
